@@ -11,3 +11,5 @@
 [FLP不可能性原理](https://github.com/dsky1990/blockchain/wiki/FLP%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%80%A7%E5%8E%9F%E7%90%86)
 
 [CAP原理](https://github.com/dsky1990/blockchain/wiki/CAP%E5%8E%9F%E7%90%86)
+
+[ACID原则]()
