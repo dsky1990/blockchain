@@ -33,3 +33,5 @@
 [PKI体系](https://github.com/dsky1990/blockchain/wiki/PKI%E4%BD%93%E7%B3%BB)
 
 [Merkle树](https://github.com/dsky1990/blockchain/wiki/Merkle%E6%A0%91)
+
+[同态加密](https://github.com/dsky1990/blockchain/wiki/%E5%90%8C%E6%80%81%E5%8A%A0%E5%AF%86)
