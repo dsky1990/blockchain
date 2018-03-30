@@ -13,3 +13,5 @@
 [CAP原理](https://github.com/dsky1990/blockchain/wiki/CAP%E5%8E%9F%E7%90%86)
 
 [ACID原则](https://github.com/dsky1990/blockchain/wiki/ACID%E5%8E%9F%E5%88%99)
+
+[BASE原则]()
