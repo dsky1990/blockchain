@@ -23,3 +23,5 @@
 [hash算法与摘要](https://github.com/dsky1990/blockchain/wiki/hash%E7%AE%97%E6%B3%95%E4%B8%8E%E6%91%98%E8%A6%81)
 
 [加解密算法](https://github.com/dsky1990/blockchain/wiki/%E5%8A%A0%E8%A7%A3%E5%AF%86%E7%AE%97%E6%B3%95)
+
+[混合加密机制](https://github.com/dsky1990/blockchain/wiki/%E6%B7%B7%E5%90%88%E5%8A%A0%E5%AF%86%E6%9C%BA%E5%88%B6)
